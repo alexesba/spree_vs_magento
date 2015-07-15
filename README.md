@@ -3,5 +3,5 @@
  Menu
 
  - Getting Started
-    - [Spree](installation/spree.md)
-    - [Magento](installation/magento.md)
+    - [Spree](spree/readme.md)
+    - [Magento](magento/readme.md)
