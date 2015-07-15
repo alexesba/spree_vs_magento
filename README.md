@@ -4,4 +4,4 @@
 
  - Getting Started
     - [Spree](installation/spree.md)
-    - [Magento](insltalation/magento.md)
+    - [Magento](installation/magento.md)
