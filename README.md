@@ -4,4 +4,4 @@
 
  - Getting Started
     - [Spree](spree/readme.md)
-    - [Magento](magento/readme.md)
+    - [Magento](magento/)
