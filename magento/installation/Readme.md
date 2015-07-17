@@ -8,11 +8,11 @@ That first view is the "License Agreement" when you check the "I agree to the ab
 
 ![continue button activated](http://i.imgur.com/mhLcOij.png)
 
-Press cotinue button to see the next view
+Press continue button to see the next view
 
 ![localization view](http://i.imgur.com/Yi7ojFJ.png)
 
-Press cotinue button and you will see the next view with this error messages:
+Press continue button and you will see the next view with this error messages:
 
 ![error messages view](http://i.imgur.com/P2Hoi8h.png)
 
@@ -24,7 +24,7 @@ You have to write your database name an msyql key access, be careful to check "S
 
 ![two check options checked](http://i.imgur.com/cA0dVzg.png)
 
-Press "Cotinue" button, in this momment Magento create a connection with the database and create all the tables. After that you'll see:
+Press "Continue" button, in this momment Magento create a connection with the database and create all the tables. After that you'll see:
 
 ![admin user configuration](http://i.imgur.com/atSza1o.png)
 
